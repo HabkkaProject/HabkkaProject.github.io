@@ -1694,17 +1694,18 @@ body {
 .cid-rkuD1LRsH3 H1 {
   color: #ffffff;
 }
-.cid-rkveIip8kd {
-  background-image: url("../../../assets/images/bc-1-2000x2000.png");
+.cid-rkXjn9nX9Z {
+  background: linear-gradient(45deg, #073b4c, #cccccc);
 }
-.cid-rkveIip8kd H1 {
-  color: #0f7699;
+.cid-rkXjn9nX9Z DIV {
   text-align: right;
 }
-.cid-rkveIip8kd .mbr-text,
-.cid-rkveIip8kd .mbr-section-btn {
+.cid-rkXjn9nX9Z H1 {
   text-align: right;
-  color: #0f7699;
+}
+.cid-rkXjn9nX9Z .mbr-text,
+.cid-rkXjn9nX9Z .mbr-section-btn {
+  text-align: right;
 }
 .cid-rkvzpJtDIk {
   background-image: url("../../../assets/images/bc1-2-2000x2000.png");
